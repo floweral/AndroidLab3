@@ -4,7 +4,7 @@
 
 git clone的命令为打开要下载的文件位置，开启Git 
 
-代码下载后结果为![](https://github.com/floweral/images/blob/lab3/p1.png)
+代码下载后结果为![p1](https://github.com/floweral/images/blob/lab3/p2.png)
 
 ```
 git clone https://github.com/hoitab/TFLClassify.git
@@ -20,7 +20,7 @@ git clone https://github.com/hoitab/TFLClassify.git
 
 配置后在Android Studio的项目架构如下
 
-![](https://github.com/floweral/images/blob/lab3/p2.png)
+![p2](https://github.com/floweral/images/blob/lab3/p2.png)
 
 
 
@@ -30,7 +30,7 @@ git clone https://github.com/hoitab/TFLClassify.git
 
 连接后的配置结果如下：
 
-![](https://github.com/floweral/images/blob/lab3/p6.png)
+![p3](https://github.com/floweral/images/blob/lab3/p6.png)
 
 
 
@@ -38,11 +38,11 @@ git clone https://github.com/hoitab/TFLClassify.git
 
 - 右键“start”模块，或者选择File，然后New>Other>TensorFlow Lite Mode
 
-- 选择下载了的训练模型![](https://github.com/floweral/images/blob/lab3/p7.png)
+- 选择下载了的训练模型![p7](https://github.com/floweral/images/blob/lab3/p7.png)
 
 - 成功导入结果如下
 
-  ![](https://github.com/floweral/images/blob/lab3/p3.png)
+  ![p4](https://github.com/floweral/images/blob/lab3/p3.png)
 
 
 
@@ -50,7 +50,7 @@ git clone https://github.com/hoitab/TFLClassify.git
 
 - View>Tool Windows>TODO
 
-- 选择Group By结果如图![](https://github.com/floweral/images/blob/lab3/p8.png)
+- 选择Group By结果如图![p5](https://github.com/floweral/images/blob/lab3/p8.png)
 
 - 修改代码
 
@@ -112,4 +112,4 @@ git clone https://github.com/hoitab/TFLClassify.git
 
 结果如下
 
-![](https://github.com/floweral/images/blob/lab3/p5.png)
+![p6](https://github.com/floweral/images/blob/lab3/p5.png)
